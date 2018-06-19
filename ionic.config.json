@@ -1,0 +1,8 @@
+{
+  "name": "drpet",
+  "app_id": "6e018449",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
